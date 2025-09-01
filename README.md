@@ -80,7 +80,8 @@ Currently listening in these countries . . . that I know of . . .
 - Belarus
 - Czech Republic
 - Japan
-
+- israel
+  
 ## Features
 * **24/7 recording and automatic identification** of bird songs, chirps, and peeps using BirdNET machine learning
 * **Automatic extraction and cataloguing** of bird clips from full-length recordings
